@@ -563,5 +563,6 @@ footer p{
      .contact h1{
     animation-duration: 0s; 
   }
-     scroll-behavior: auto !important;
+     scroll-behavior: auto;
+     transform: none; 
   }
